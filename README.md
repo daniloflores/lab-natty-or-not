@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Aprendendo sobre IA no ritmo da GenAI
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esta é uma composição musical criada com auxílio de IAs generativas, com o propósito de ensinar sobre os conceitos de inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT para composição da letra e Suno para criação da música.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente, compus um prompt para o ChatGPT, especificando sua "persona" e seu objetivo. A persona foi um compositor assessorado por um consultor técnico em ciência de dados. O objetivo era compor uma letra de musica lúdica e com rimas, contando sobre a história da IA.
+Após algumas interações, fiquei satisfeito com letra gerada.
+Em seguida, pedi ao Suno para musicar a letra, com os ritmos house e funk.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Link para a música.](https://suno.com/song/80cb85ed-2446-49ac-a68d-8b16f2a530c1)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A atividade permitiu explorar um pouco o universo das IAs generativas. Esse tipo de material gerado pelas IAs de forma lúdica poderia ajudar a fixar conhecimentos de formas mais interessante.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
